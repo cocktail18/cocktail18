@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/xijaja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xijaja&layout=compact&theme=" alt="Top Langs" width="355" height="170" />
+<a href="https://github.com/cocktail18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocktail18&layout=compact&theme=" alt="Top Langs" width="355" height="170" />
 </a>
-<a href="https://github.com/xijaja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xijaja&hide=prs&count_private=true&show_icons=true&theme=" alt="github stats" width="460" height="170" />
+<a href="https://github.com/cocktail18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cocktail18&hide=prs&count_private=true&show_icons=true&theme=" alt="github stats" width="460" height="170" />
 </a>
 
 <!--
